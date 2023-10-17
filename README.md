@@ -1,4 +1,4 @@
- # tip_calculator
+ # Tip_Calculator
  Python practice project: Tip Calculator
 
  Practice exercise for 100 Days of Code - The Complete Python Pro Bootcamp for 2023 by Dr. Angela Yu
